@@ -1,8 +1,6 @@
 # notionExporter
 Export attachments from Notion databases into a local folder using the Notion API
 
-## Setup (skip to step 2 if you have Python downloaded)
-
 ### 1. Download and Install Python
 
 1. **Download Python**:
@@ -14,7 +12,7 @@ Export attachments from Notion databases into a local folder using the Notion AP
    - Make sure to check the box that says "Add Python to PATH".
    - Click on "Install Now" and follow the prompts to complete the installation.
 
-### 2. Install Required Packages
+### 2. Install Required Packages (you only need to do this once)
 
 1. **Open Command Prompt**:
    - Press `Win + R`, type `cmd`, and press `Enter`.
